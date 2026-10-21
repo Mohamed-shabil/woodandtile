@@ -41,7 +41,7 @@ const buttons: { label: string; href: string; external?: boolean; icon: ReactNod
   },
   {
     label: "Brochure(s)",
-    href: "https://bespoke-unicorn-baa3ce.netlify.app/assets/wood-tile-brochure.pdf",
+    href: "/brochure.pdf",
     external: true,
     icon: (
       <svg {...iconProps}>
